@@ -8,6 +8,9 @@
 
 
 							//menu id's for the menu
+
+
+
 int texchangeid,terchangeid,speedchangeid,sunshowid,sunsizeid,sunspinid,settimeid,daylenid;
 
 							//flags declaration
